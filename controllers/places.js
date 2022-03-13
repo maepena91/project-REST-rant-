@@ -51,8 +51,15 @@ router.get("/:id/edit", (req, res) => {
 });
 
 router.delete("/:id", (req, res) => {
-  let id = req.params.id;
-  res.send("Delete a particular place");
+  let id = Number(req.params.id);
+  if (isNaN(id)) {
+    res.render("error404");
+  } else if (!places[id]) {
+    res.render("error404");
+  } else {
+    places.splice(id, 1);
+    res.redirect("/places");
+  }
 });
 
 router.post("/:id/rant", (req, res) => {

@@ -1,5 +1,7 @@
-const React = require('react')
-const Def = require('../default')
+// Modules and Globals
+require('dotenv').config()
+const express = require('express')
+const methodOverride = require('method-override')
 
 function index (data) {
   let placesFormatted = data.places.map((place, index) => {
