@@ -9,10 +9,9 @@ function home () {
               <a href="/places"></a>
   <button className="btn-primary">Places Page</button>
   <div>
-    <img src="/images/pho.jpg" alt="pho" />
+    <img src="/images/goodsalad.jpg" alt="salad" />
   </div>
-  Photo by <a href="https://unsplash.com/@photophotostock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kirill Tonkikh</a> on <a href="https://unsplash.com/s/photos/pho?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+  Photo by <a href="https://unsplash.com/@lavievagabonde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jasmin Schreiber</a> on <a href="https://unsplash.com/s/photos/salad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   <div>
   
   
