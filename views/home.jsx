@@ -7,10 +7,10 @@ function home () {
             <main>
     <h1>HOME</h1>
     <div>
-      <img src="/images/mixedsalad.jpg" alt="salad" />
+      <img src="/images/Drinks.jpg" alt="drinks" />
       <div>
-      Photo by <a href="https://unsplash.com/@annapelzer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anna Pelzer</a> on <a href="https://unsplash.com/s/photos/salad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+      Photo by <a href="https://unsplash.com/@ksousaphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Katherine Sousa</a> on <a href="https://unsplash.com/s/photos/drinks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    
   </div>
     </div>
     <a href="/places">
